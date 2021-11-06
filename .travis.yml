@@ -22,6 +22,6 @@ deploy:
   provider: heroku
   api_key: $HEROKU_API_KEY
   edge: true 
-  app: DevOpsLabFiap
+  app: devopsfiaplab
   on:
       branch: main
